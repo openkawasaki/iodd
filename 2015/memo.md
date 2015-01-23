@@ -8,7 +8,7 @@
 
 - オープン川崎 conpass  
 	<http://openkawasaki.connpass.com/>
-	- イベントプレビュー
+	- イベントプレビュー  
 	<http://openkawasaki.connpass.com/event/11287/preview/>
 
 ### スタッフグループ
