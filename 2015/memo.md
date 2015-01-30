@@ -11,6 +11,9 @@
 	- イベントプレビュー  
 	<http://openkawasaki.connpass.com/event/11287/preview/>
 
+- Knowledge Connector - 川崎インターナショナル・オープンデータ・デイ2015 
+	<http://idea.linkdata.org/idea/idea1s880i>
+	
 ### スタッフグループ
 
 - 川崎IODD2015 スタッフグループ  
