@@ -64,6 +64,7 @@ LocalWikiって知ってますか？
 * [LocalWiki](https://ja.localwiki.org/)
 	- https://localwiki.org/main/
 	- https://ja.localwiki.org/main-ja/
+	- [GitHub](https://github.com/localwiki)
 * [LocalWiki ドキュメント日本語版](https://localwiki-ja.readthedocs.org/en/latest/)
 * [ja.localwiki.org/main-ja編集会議 FBグループ](https://www.facebook.com/groups/localwiki.jp/)
 
