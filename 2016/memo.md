@@ -14,6 +14,7 @@ OKFJ
 * [Open Data Day 主催者連絡用 facebookグループ](https://www.facebook.com/groups/154102518072665/)
 * [オープンデータデイ2016 開催地登録状況](https://docs.google.com/spreadsheets/d/1R1NDIMM_aP0wvGoJgSYR5YLg5bsp5Ehe6jFpQA99Eyg/edit#gid=0)
 * [2016/City Events](http://wiki.opendataday.org/2016/City_Events#Japan)
+* [International OpenData Day 2015 プレイベント開催報告](http://okfn.jp/2015/02/14/iodd2015_pre/)
 
 タグ：#odtalk
 
