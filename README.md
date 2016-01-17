@@ -1,16 +1,16 @@
 オープン川崎の「インターナショナル・オープン・データ・デイ(IODD」の情報共有
 ----------------------
 
-### 川崎イベント情報
-* IODD2014
-  - [川崎IODD2014](https://github.com/openkawasaki/iodd/tree/master/2014)
-  - [川崎 International Open Data Day 2014](https://www.facebook.com/events/450440878389353/)
-* IODD2015
-  - [川崎IODD2015](https://github.com/openkawasaki/iodd/tree/master/2015)
-  - [川崎インターナショナル・オープンデータ・デイ2015](http://openkawasaki.connpass.com/event/11287/)
-* IODD2016
-  - [IODD2016川崎 プロジェクトページ](https://github.com/openkawasaki/iodd/tree/master/2016)
-  - [IODD2016川崎 イベントページ](http://www.meetup.com/ja-JP/open_kawasaki/events/228129500/)
+### 川崎IODDイベント情報
+* 川崎IODD2014
+  - [プロジェクトページ](https://github.com/openkawasaki/iodd/tree/master/2014)
+  - [イベントページ](https://www.facebook.com/events/450440878389353/)
+* 川崎IODD2015
+  - [プロジェクトページ](https://github.com/openkawasaki/iodd/tree/master/2015)
+  - [イベントページ](http://openkawasaki.connpass.com/event/11287/)
+* 川崎IODD2016
+  - [プロジェクトページ](https://github.com/openkawasaki/iodd/tree/master/2016)
+  - [イベントページ](http://www.meetup.com/ja-JP/open_kawasaki/events/228129500/)
 
 ### インターナショナル・オープン・データ・デイ(IODD)とは
 毎年、オープンデータの普及や利活用の推進を目指して開催され、世界各地で同時に開催さるイベントです。
