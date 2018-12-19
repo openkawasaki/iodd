@@ -11,6 +11,13 @@
 * 川崎IODD2016
   - [プロジェクトページ](https://github.com/openkawasaki/iodd/tree/master/2016)
   - [イベントページ](http://www.meetup.com/ja-JP/open_kawasaki/events/228129500/)
+* 川崎IODD2017
+  - [プロジェクトページ](https://github.com/openkawasaki/iodd/tree/master/2017)
+  - [イベントページ](https://openkawasaki.connpass.com/event/51844/)
+* 川崎IODD2018
+  - [プロジェクトページ](https://github.com/openkawasaki/iodd/tree/master/2018)
+  - [イベントページ](http://cpb.openkawasaki.org/)
+
 
 ### インターナショナル・オープン・データ・デイ(IODD)とは
 毎年、オープンデータの普及や利活用の推進を目指して開催され、世界各地で同時に開催さるイベントです。
