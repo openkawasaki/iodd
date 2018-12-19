@@ -15,7 +15,8 @@
   - [プロジェクトページ](https://github.com/openkawasaki/iodd/tree/master/2017)
   - [イベントページ](https://openkawasaki.connpass.com/event/51844/)
 * 川崎IODD2018
-  - [プロジェクトページ](https://github.com/openkawasaki/iodd/tree/master/2018)
+* 川崎IODD2019
+  - [プロジェクトページ](https://github.com/openkawasaki/iodd/tree/master/2019)
   - [イベントページ](http://cpb.openkawasaki.org/)
 
 
